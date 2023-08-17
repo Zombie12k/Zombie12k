@@ -13,4 +13,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zombie12k&theme=vision-friendly-dark&show_icons=true&locale=en" alt="zombie12k" /></p>
 
+<p align="center">
+    <a href="https://leetcode.com/devhunt/"><img width="48%" src="https://leetcode.card.workers.dev/devhunt?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zombie12k&" alt="zombie12k" /></p>
