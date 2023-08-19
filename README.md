@@ -24,4 +24,4 @@
     <a href="https://leetcode.com/devhunt/"><img width="48%" src="https://leetcode.card.workers.dev/devhunt?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zombie12k&" alt="zombie12k" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zombie12k&theme=dark" alt="zombie12k" /></p>
