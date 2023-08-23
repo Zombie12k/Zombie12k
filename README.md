@@ -25,3 +25,7 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zombie12k&theme=dark" alt="zombie12k" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Zombie12k&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
