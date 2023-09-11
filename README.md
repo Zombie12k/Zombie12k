@@ -15,10 +15,10 @@
 
 
 
-<a href="https://github.com/Zombie12k"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zombie12k&theme=dark&hide=html,css,cmake&layout=compact&langs_count=20&bg_color=101010&hide_title=true"></a>
+<a href="https://github.com/Zombie12k"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zombie12k&theme=dark&hide=html,css,cmake&layout=compact&langs_count=20&bg_color=101010&hide_title=false"></a>
 </p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zombie12k&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=vision-friendly-dark&show_icons=true&locale=en" alt="zombie12k"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zombie12k&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&theme=vision-friendly-dark&show_icons=true&locale=en" alt="zombie12k"></p>
 
 <p><img align="center"href="https://leetcode.com/devhunt/"><img width="48%" src="https://leetcode.card.workers.dev/devhunt?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></p>
 
