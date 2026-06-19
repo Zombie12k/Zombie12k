@@ -50,6 +50,8 @@ Research project focused on continuous Bangla Sign Language recognition and tran
 - C
 - Java
 - PHP
+- HTML
+- Assembly
 
 ### Technologies
 
