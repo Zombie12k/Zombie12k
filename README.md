@@ -75,6 +75,4 @@ Research project focused on continuous Bangla Sign Language recognition and tran
 
 ## LeetCode
 
-<p align="center">
-  <img src="https://leetcode.card.workers.dev/devhunt?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
-</p>
+[![LeetCode](https://img.shields.io/badge/LeetCode-937%2B%20Solved-orange)](https://leetcode.com/u/devhunt/)
