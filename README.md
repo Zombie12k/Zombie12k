@@ -1,27 +1,80 @@
+# Hi, I'm Tanvir
 
+Computer Science Student at BRAC University
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<br>
+## Interests
+
+- Machine Learning
+- Artificial Intelligence
+- Operating Systems
+- Software Engineering
+- Data Structures & Algorithms
+
+---
+
+## Featured Projects
+
+### Credit-Based Election System
+Database-driven election platform developed for CSE370 (Database Systems).
+
+### Simple Filesystem
+Custom inode-based filesystem developed for CSE321 (Operating Systems).
+
+### Water Potability Prediction
+Machine learning classification project developed for CSE422 (Introduction to Machine Learning).
+
+### Bangla Sign Language Recognition (Thesis)
+Research project focused on continuous Bangla Sign Language recognition and translation.
+
+---
+
+## Competitive Programming
+
+- 937+ LeetCode Problems Solved
+- 500-Day Badge Holder
+- Strong focus on:
+  - Dynamic Programming
+  - Graph Algorithms
+  - Trees
+  - Backtracking
+  - Greedy Algorithms
+
+---
+
+## Technical Skills
+
+### Languages
+
+- Python
+- C++
+- C
+- Java
+- PHP
+
+### Technologies
+
+- MySQL
+- Git
+- Linux
+- Scikit-Learn
+- Machine Learning
+
+---
+
+## GitHub Statistics
+
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zombie12k&show_icons=true&theme=vision-friendly-dark">
 </p>
+
 <p align="center">
-    <h1 align="center">✩&emsp;Zombie12k&emsp;✩</h1>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zombie12k&theme=dark">
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zombie12k&label=Profile%20views&color=0e75b6&style=flat" alt="zombie12k" /> </p>
+---
 
+## LeetCode
 
-
-<a href="https://github.com/Zombie12k"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zombie12k&theme=dark&hide=html,css,cmake&layout=compact&langs_count=8&bg_color=101010&hide_title=false"></a>
-</p> 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zombie12k&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&theme=vision-friendly-dark&show_icons=true&locale=en" alt="zombie12k"></p>
-
-<p><img align="center"href="https://leetcode.com/devhunt/"><img width="48%" src="https://leetcode.card.workers.dev/devhunt?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zombie12k&theme=dark" alt="zombie12k" /></p>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Zombie12k&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://leetcode.card.workers.dev/devhunt?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
+</p>
