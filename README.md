@@ -9,7 +9,7 @@
     <h1 align="center">✩&emsp;Zombie12k&emsp;✩</h1>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zombie12k&label=Profile%20views&color=0e75b6&style=flat" alt="zombie12k" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Md. Tanvir Ahsan&label=Profile%20views&color=0e75b6&style=flat" alt="Md. Tanvir Ahsan" /> </p>
 
 
 
