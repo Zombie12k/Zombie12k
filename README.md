@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 <p align="center">
-    <h1 align="center">✩&emsp;Zombie12k&emsp;✩</h1>
+    <h1 align="center">✩&emsp;Md. Tanvir Ahsan&emsp;✩</h1>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Md. Tanvir Ahsan&label=Profile%20views&color=0e75b6&style=flat" alt="Md. Tanvir Ahsan" /> </p>
